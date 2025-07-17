@@ -49,9 +49,6 @@ types/              # TypeScript type definitions
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Appwrite](https://appwrite.io/) (for authentication & file storage)
 
-## License
-MIT
-
 ---
 
 # Project Overview
